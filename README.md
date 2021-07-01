@@ -23,11 +23,11 @@
 
 2. For question2:
 
-    `$ python question1.py`
+    `$ python question2.py`
 
 3. For question3:
 
-    `$ python question1.py`
+    `$ python question3.py`
 
 4. For question4:
 
